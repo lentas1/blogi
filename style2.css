@@ -1,0 +1,41 @@
+.button2{
+    color: white;
+    background-color: rgb(49, 49, 49);
+}
+body, html{
+    background-color: black;
+    z-index: 1;
+}
+.subtitle{
+    position: absolute;
+    left:10%;
+    top: 20%;
+    font-size: x-large;
+    color: white;
+    height: 200px;
+    width: 50%;
+    background-color: rgb(61, 61, 61);
+ 
+
+
+}
+.text1{
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 10%;
+  
+}
+.sub2{
+    position: absolute;
+    left:10%;
+    top: 500px;
+    font-size: x-large;
+    color: white;
+    height: 200px;
+    width: 50%;
+    background-color: rgb(61, 61, 61);
+ 
+
+
+}

@@ -1,0 +1,27 @@
+body, html {
+    background-image: url('e.png');
+    background-position-y: 0%; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black 
+    
+    
+}
+.title1 {  
+    position: absolute;
+    text-align: center;
+    left:50%;
+    top: 10%;
+    color: rgb(142, 142, 255);
+    transform: translate(-50%, -50%);
+    background-color: black;
+
+
+
+
+} 
+.button1{
+    color: white;
+    background-color: black;
+    
+}
