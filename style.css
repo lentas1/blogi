@@ -13,7 +13,8 @@ body, html {
     text-align: center;
     left:50%;
     top: 10%;
-    color: rgb(142, 142, 255);
+    font-size: 60px;
+    color: rgb(255, 255, 255);
     transform: translate(-50%, -50%);
     background-color: black;
 
@@ -33,8 +34,9 @@ body, html {
     top: 550px;
     color: rgb(184, 184, 184);
     transform: translate(-50%, -50%);
-    background-color: black;
+
     font-size: 20px;
+    z-index: 1;
 }
 .header1{
     position: absolute;
@@ -43,6 +45,46 @@ body, html {
     top: 500px;
     color: rgb(255, 255, 255);
     transform: translate(-50%, -50%);
-    background-color: black;
+   
     font-size: 30px;
+    background-color: gray;
+    z-index: 1;
+}
+.rect1{
+    position: absolute;
+    top: 525px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+}
+.rect12{
+    position: absolute;
+    top: 750px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+}
+.test12{
+    position: absolute;
+    text-align: center;
+    left:50%;
+    top: 750px;
+    color: rgb(184, 184, 184);
+    transform: translate(-50%, -50%);
+
+    font-size: 20px;
+    z-index: 1;
+}
+.header2{
+    position: absolute;
+    text-align: center;
+    left:50%;
+    top: 700px;
+    color: rgb(255, 255, 255);
+    transform: translate(-50%, -50%);
+
+    font-size: 25px;
+    z-index: 1;
 }
