@@ -1,0 +1,90 @@
+body, html {
+    background-image: url('e.png');
+    background-position-y: 0%; 
+    background-size: 100% 450px;
+    background-repeat: no-repeat;
+    background-color: black 
+    
+    
+    
+}
+.title1 {  
+    position: absolute;
+    text-align: center;
+    left:50%;
+    top: 10%;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    transform: translate(-50%, -50%);
+    background-color: black;
+
+
+
+
+} 
+.button1{
+    color: white;
+    background-color: black;
+    
+}
+.test1{
+    position: absolute;
+    text-align: center;
+    left:50%;
+    top: 550px;
+    color: rgb(184, 184, 184);
+    transform: translate(-50%, -50%);
+
+    font-size: 20px;
+    z-index: 1;
+}
+.header1{
+    position: absolute;
+    text-align: center;
+    left:50%;
+    top: 500px;
+    color: rgb(255, 255, 255);
+    transform: translate(-50%, -50%);
+   
+    font-size: 30px;
+    background-color: gray;
+    z-index: 1;
+}
+.rect1{
+    position: absolute;
+    top: 525px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+}
+.rect12{
+    position: absolute;
+    top: 750px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+}
+.test12{
+    position: absolute;
+    text-align: center;
+    left:50%;
+    top: 750px;
+    color: rgb(184, 184, 184);
+    transform: translate(-50%, -50%);
+
+    font-size: 20px;
+    z-index: 1;
+}
+.header2{
+    position: absolute;
+    text-align: center;
+    left:50%;
+    top: 700px;
+    color: rgb(255, 255, 255);
+    transform: translate(-50%, -50%);
+
+    font-size: 25px;
+    z-index: 1;
+}
